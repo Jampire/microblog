@@ -1,5 +1,5 @@
 /.idea
 my_test.py
 app.db
-venv/Include/
+/venv
 /logs
