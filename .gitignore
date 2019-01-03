@@ -3,3 +3,4 @@ my_test.py
 app.db
 /venv
 /logs
+.flaskenv
